@@ -20,5 +20,4 @@ data *science* lab
 
 [Youtube](https://www.youtube.com/)
 
-
 [Dong-A LMS](https://eclass.donga.ac.kr/)
