@@ -19,5 +19,6 @@ data *science* lab
 ```
 
 [Youtube](https://www.youtube.com/)
-\n
+
+
 [Dong-A LMS](https://eclass.donga.ac.kr/)
